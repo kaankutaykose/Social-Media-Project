@@ -1,0 +1,5 @@
+spring.jpa.hibernate.ddlAuto=update
+spring.datasource.url=jdbc:mysql://localhost:3306/quest_app
+spring.datasource.username=root
+spring.datasource.password=Desa*3345#
+spring.datasource.driverClassName=com.mysql.jdbc.Driver

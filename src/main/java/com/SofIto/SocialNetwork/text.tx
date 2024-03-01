@@ -1,0 +1,9 @@
+/users
+/users/{/users}
+/users/{/users}/profile
+
+
+/likes
+/likes?postId={postId}
+/likes?user={}userId
+/likes/{likeId}
